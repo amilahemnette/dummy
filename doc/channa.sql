@@ -4,4 +4,4 @@ and tblJobs.fldCustCode = tblReportingDetails.fldCustCode
 and fldCancel='false'
 and tblReportingDetails.fldCustCode = 'DBR10'
 and fldTest is not null
-order by tblReportingDetails.fldCustCode,tblJobs.fldId,fldJobCode,fldTest,fldisCopyOnly
+order by tblReportingDetails.fldCustCode,tblJobs.fldId,fldJobCode,fldTest,fldisCopyOnly 23444
